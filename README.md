@@ -13,4 +13,4 @@ Step 3: Rename the directory to "cornQ"
 
 All done! Now you can find cornQ reseller account in "Registrars Plugins" page of Clientexec.
 
-Testing
+Testing Testing branch
