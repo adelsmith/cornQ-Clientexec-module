@@ -16,3 +16,6 @@ All done! Now you can find cornQ reseller account in "Registrars Plugins" page o
 Testing Testing branch
 
 Last time
+
+
+Branch testing pull request
